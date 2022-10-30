@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Food Order App</string>
+    <string name="descriptionFood">Chicken Burger with extra cheese</string>
+</resources>
